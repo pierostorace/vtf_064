@@ -1,0 +1,12 @@
+{
+  "name": "Antonia",
+  "version": "1.0.0",
+  "description": "Api para el sistema de citas y recordatorio de ingesta de medicamentos",
+  "author": "Piero Storace",
+  "license": "Copyright",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0"
+  }
+}
